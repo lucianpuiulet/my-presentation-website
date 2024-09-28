@@ -25,7 +25,7 @@ h2.section{
 }
 /* Header styles */
 header{
-    background-image: url(./images/cover.jpg);
+    background-image: url(./images/cover2.jpg);
     height: 250px;
     background-position: center center;
 }
@@ -77,6 +77,7 @@ header{
     padding: 16px;
 }
 .project-details{
+    font-size: 0.80rem;
     display: none;
     background-color: #3d64a6;
     position: absolute;
